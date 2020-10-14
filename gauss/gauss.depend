@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550150537 source:e:\project1\gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+

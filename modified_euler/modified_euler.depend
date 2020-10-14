@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556720904 source:e:\project1\modified_euler\main.c
+	<stdio.h>
+	<stdlib.h>
+

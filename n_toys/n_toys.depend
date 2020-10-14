@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567020960 source:e:\project1\n_toys\main.c
+	<stdio.h>
+	<stdlib.h>
+

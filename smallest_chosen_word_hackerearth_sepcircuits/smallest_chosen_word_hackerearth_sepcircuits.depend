@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569253242 source:e:\project1\smallest_chosen_word_hackerearth_sepcircuits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

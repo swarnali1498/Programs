@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556545347 source:e:\project1\string matching naive\main.c
+	<stdio.h>
+	<stdlib.h>
+

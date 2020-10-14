@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532769431 source:e:\project1\linklist\display.c
+
+1532786355 source:e:\project1\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1532769770 source:e:\project1\linklist\poly.c
+

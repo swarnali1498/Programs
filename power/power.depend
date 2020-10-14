@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556479385 source:e:\project1\power\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

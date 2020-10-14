@@ -1,0 +1,7 @@
+1 2 - tree edge
+2 5 - tree edge
+5 3 - tree edge
+3 6 - tree edge
+5 4 - tree edge
+4 1 - Back Edge
+4 2 - Back Edge

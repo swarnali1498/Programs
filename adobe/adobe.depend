@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585412231 source:e:\project1\adobe\main.c
+	<stdio.h>
+	<stdlib.h>
+

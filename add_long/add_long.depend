@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543430993 source:e:\project1\add_long\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543430891 source:e:\sample.c
+	<stdio.h>
+

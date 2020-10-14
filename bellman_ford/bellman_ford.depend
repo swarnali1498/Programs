@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555930986 source:e:\project1\bellman_ford\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

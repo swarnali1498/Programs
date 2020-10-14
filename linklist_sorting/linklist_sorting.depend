@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1533373158 source:e:\project1\linklist_sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1533373216 source:e:\project1\linklist_sorting\check.c
+

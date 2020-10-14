@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532708827 source:e:\project1\add_sparse\add.c
+
+1532706041 source:e:\project1\add_sparse\main.c
+	<stdio.h>
+	<stdlib.h>
+

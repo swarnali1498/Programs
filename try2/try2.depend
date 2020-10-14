@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543430891 source:e:\sample.c
+	<stdio.h>
+
+1543431476 source:e:\project1\try\func.c
+
+1543431476 source:e:\project1\try\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543431476 source:e:\project1\try2\main.c
+	<stdio.h>
+	<stdlib.h>
+

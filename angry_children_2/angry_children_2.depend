@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567184325 source:e:\project1\angry_children_2\main.c
+	<stdio.h>
+	<stdlib.h>
+

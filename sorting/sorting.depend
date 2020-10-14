@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535385554 source:e:\project1\sorting\bubble.c
+
+1535385554 source:e:\project1\sorting\cocktail_shaker.c
+
+1535385554 source:e:\project1\sorting\quick.c
+
+1537114306 source:e:\project1\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

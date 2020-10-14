@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556696679 source:e:\project1\newton raphson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

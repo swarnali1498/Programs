@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569087941 source:e:\project1\color boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+

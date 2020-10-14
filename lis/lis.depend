@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569952898 source:e:\project1\lis\main.cpp
+	<iostream>
+	<stdlib.h>
+

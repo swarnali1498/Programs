@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542205198 source:e:\project1\abc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1532764709 source:e:\project1\abc\poly_array.c
+

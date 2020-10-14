@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534097349 source:e:\project1\matrix_copy\main.cpp
+	<iostream>
+	<cstdlib>
+

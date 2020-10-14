@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556482285 source:e:\project1\floyd_warshall\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
